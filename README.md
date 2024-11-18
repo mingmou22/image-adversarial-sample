@@ -1,3 +1,11 @@
+![image](https://github.com/user-attachments/assets/e3666bdd-da63-4f57-a89d-a8651f041e65)
+
+
+
+
+
+
+
 # image-adversarial-sample
 1. Datasets 
 This paper has not been officially published yet, so the current program is provided for testing purposes only. Once the paper is accepted, we will upload the complete infrared image dataset. Currently, we have included a few enhanced infrared images in the `flickr30k-images` folder for testing purposes.  
