@@ -1,10 +1,13 @@
 # Infrared-image-adversarial-sample
+
+![image](https://github.com/user-attachments/assets/253103d3-dfba-425d-9c39-bdd67b93773c)
+
+Method framework
+
 1. Datasets 
 This paper has not been officially published yet, so the current program is provided for testing purposes only. Once the paper is accepted, we will upload the complete infrared image dataset. Currently, we have included a few enhanced infrared images in the `flickr30k-images` folder for testing purposes.  infrared image enhancement.py integrates low-light image information into infrared images. After running the script, you can observe the enhanced results.
 
-![image](https://github.com/user-attachments/assets/ab810813-23ad-4226-8b6d-3222e9e9bdc0)
-
-Flowchart for Infrared Image Enhancement
+![image](https://github.com/user-attachments/assets/4b5b02ea-0bff-46fd-84c8-a89a9f0fb32f)
 
 3. Preparing Model Checkpoints  
 The models used in the paper are open-source. Due to the large file size, you can obtain them directly from their respective official repositories. Below are three example links:  
@@ -13,17 +16,9 @@ The models used in the paper are open-source. Due to the large file size, you ca
 - https://github.com/openai/CLIP  
 ...
 
-![image](https://github.com/user-attachments/assets/e3666bdd-da63-4f57-a89d-a8651f041e65)
+![1731903310468](https://github.com/user-attachments/assets/a04840d2-f172-4522-ac75-3451fbb8208b)
 
-SGA
-
-![image](https://github.com/user-attachments/assets/c8099a0f-1ce0-48d8-a51b-cc48081a9ae4)
-
-VLA 
-
-![image](https://github.com/user-attachments/assets/fb983bbd-ead6-4f57-9d30-3d9a4a174eb8)
-
- V-FSA(ours)
+V-FSA(ours) vs SGA与VLA
 
 3. Adversarial Sample Generation 
 We provide `eval.py`, where you can choose to import SGAttacker, VLAttacker, or V-FSARAttacker for evaluating the performance of image-text retrieval attacks. Additionally, the perturbation layer images are displayed separately. After running the program, they will be displayed sequentially.
