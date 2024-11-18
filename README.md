@@ -16,9 +16,11 @@ The models used in the paper are open-source. Due to the large file size, you ca
 ![image](https://github.com/user-attachments/assets/e3666bdd-da63-4f57-a89d-a8651f041e65)
 
 SGA
+
 ![image](https://github.com/user-attachments/assets/c8099a0f-1ce0-48d8-a51b-cc48081a9ae4)
 
 VLA 
+
 ![image](https://github.com/user-attachments/assets/fb983bbd-ead6-4f57-9d30-3d9a4a174eb8)
 
  V-FSA(ours)
