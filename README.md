@@ -8,6 +8,7 @@ VLA
 # image-adversarial-sample
 1. Datasets 
 This paper has not been officially published yet, so the current program is provided for testing purposes only. Once the paper is accepted, we will upload the complete infrared image dataset. Currently, we have included a few enhanced infrared images in the `flickr30k-images` folder for testing purposes.  infrared image enhancement.py integrates low-light image information into infrared images. After running the script, you can observe the enhanced results.
+
 ![image](https://github.com/user-attachments/assets/ab810813-23ad-4226-8b6d-3222e9e9bdc0)
 Flowchart for Infrared Image Enhancement
 
