@@ -18,7 +18,7 @@ The models used in the paper are open-source. Due to the large file size, you ca
 
 ![1731903310468](https://github.com/user-attachments/assets/a04840d2-f172-4522-ac75-3451fbb8208b)
 
-V-FSA(ours) vs SGA与VLA
+V-FSA(ours) vs SGA与AT-LSA(ours)
 
 3. Adversarial Sample Generation 
 We provide `eval.py`, where you can choose to import SGAttacker, VLAttacker, or V-FSARAttacker for evaluating the performance of image-text retrieval attacks. Additionally, the perturbation layer images are displayed separately. After running the program, they will be displayed sequentially.
