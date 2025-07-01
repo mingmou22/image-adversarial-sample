@@ -1,6 +1,7 @@
 # Infrared-image-adversarial-sample
 
-![image](https://github.com/user-attachments/assets/253103d3-dfba-425d-9c39-bdd67b93773c)
+![图片1](https://github.com/user-attachments/assets/4539f2e5-3438-4177-a001-2c5e06902f67)
+
 
 Method framework
 
